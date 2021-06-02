@@ -1,5 +1,5 @@
 # FileTranzfer
-file Transfer is a project based on file transfer between devices(like smartphone and pc) using TCP connection...
+file Transfer is a project based on file transfer between devices(like smartphone,pc) using TCP connection...
 
 To transfer a File Follow the following Steps:
 
