@@ -67,5 +67,5 @@ with open(dir+"/"+filename, "wb") as f:
 client_socket.close()
 # close the server socket
 s.close()
-break
+
 
