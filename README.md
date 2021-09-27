@@ -1,5 +1,5 @@
 # FileTranzfer
-FileTranzfer is a project based on file transfer between devices(like smartphone,pc) using TCP connection...
+FileTranzfer is a Python GUI project based on file transfer between devices(like smartphone,pc) using TCP connection...
 
 To transfer a File Follow the following Steps:
 
